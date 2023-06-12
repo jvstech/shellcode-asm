@@ -3,10 +3,10 @@ LLVM-based library and tool for assembling and disassembling shellcode
 
 ## Usage
 
-### Install LLVM
+### Install LLVM libraries and headers
 
 ```bash
-sudo apt install llvm-11
+sudo apt install llvm-dev
 ```
 
 Alternatively, check out, build, and install [LLVM from source](https://github.com/llvm/llvm-project).
